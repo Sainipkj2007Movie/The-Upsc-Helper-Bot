@@ -1,3 +1,4 @@
-requests
-Flask
-pyrogram
+pyrogram==2.0.106
+tgcrypto==1.2.5
+Flask>=2.0,<3.0
+Werkzeug>=2.0,<3.0
